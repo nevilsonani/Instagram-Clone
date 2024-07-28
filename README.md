@@ -1,7 +1,7 @@
-### Instagram Clone - MERN Stack Project
+# Instagram Clone - MERN Stack Project
 Welcome to the Instagram clone project built with the MERN stack. This project aims to replicate the core functionalities of Instagram, allowing users to share photos, follow other users, and interact with posts.
 
-### Features
+## Features
 User Authentication: Secure user registration and login.
 
 Profile Management: Users can create and manage their profiles.
@@ -18,7 +18,7 @@ Notifications: Get notified about likes, comments, and follows.
 
 Direct Messaging: Send private messages to other users.
 
-### Technologies Used
+## Technologies Used
 
 MongoDB: Database for storing user data and posts. 
 
